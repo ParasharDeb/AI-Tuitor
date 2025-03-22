@@ -25,7 +25,7 @@ export default function Navbar() {
         <NavLink href="/study-planner">Study Planner</NavLink>
         <NavLink href="/doubt-solver">Doubt Solver</NavLink>
         <NavLink href="/examples">Examples</NavLink>
-        <NavLink href="/pricing">Pricing</NavLink>
+
       </div>
 
       <div className="hidden md:flex items-center space-x-4">
